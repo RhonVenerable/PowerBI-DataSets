@@ -1,0 +1,443 @@
+"admin_id","username","email","password_hash","role","created_at","reset_token","token_expiry"
+"29","rhon45","21-34023@g.batstate-u.edu.ph","$2y$10$aSmyo622Y5LTOY7aN0Gz1.jpQsSXslMmTN7itJLNnZkSa5K6NgEcC","super_admin","2024-10-31 02:28:18",NULL,NULL
+"34","rj21","mryan1669@gmail.com","$2y$10$wca1/fF5OXvsHPPo7Kj/6.wUciFPHySgHGHuaVqNA3hl.S6lqjAu6","manager","2024-11-13 02:20:47",NULL,NULL
+"35","jade","ryanmanalo172@gmail.com","$2y$10$n6MrIQ3F/gI/mleRyYLvQe2.OAZUZmb/lIgRrilzZy2kBNQsi24ee","super_admin","2024-11-23 23:42:24",NULL,NULL
+"36","n@ila05","jmatruckssolution@gmail.com","$2y$10$oi.kiUBDri9dsyUtow3a/OM2RB8cmQQatnJNqb8c8Jz81CG73S00q","super_admin","2024-11-25 19:22:18",NULL,NULL
+"37","@rmaments15","jmatrucks@gmail.com","$2y$10$do8CnVbDFUC2T7oqP8tNROrrTEAQuVLypE/q0GoGFbcTQW7VBVi/6","super_admin","2024-11-25 19:31:11",NULL,NULL
+"history_id","truck_id","event_type","event_details","event_time"
+"bid_id","user_id","truck_id","bid_amount","bid_time","is_read"
+"1","75","14","1800000.00","2024-11-23 13:37:19","0"
+"2","75","14","1900000.00","2024-11-23 13:37:24","0"
+"3","75","14","2000000.00","2024-11-23 13:37:35","0"
+"4","75","7","3800000.00","2024-11-23 13:48:29","0"
+"5","75","7","3900000.00","2024-11-23 13:48:34","0"
+"6","75","7","4000000.00","2024-11-23 13:48:39","0"
+"9","75","1","3100000.00","2024-11-23 14:59:16","0"
+"10","75","1","3200000.00","2024-11-23 15:29:24","0"
+"11","73","1","3300000.00","2024-11-24 03:18:16","0"
+"12","73","1","3400000.00","2024-11-24 03:18:33","0"
+"13","73","1","3700000.00","2024-11-24 03:19:01","0"
+"14","73","1","4100000.00","2024-11-24 03:19:34","0"
+"15","75","1","45000000.00","2024-11-26 01:39:27","0"
+"16","75","12","2700001.00","2024-12-02 09:46:10","0"
+"17","75","12","2700002.00","2024-12-02 10:21:38","0"
+"18","75","12","2700003.00","2024-12-02 10:21:42","0"
+"19","75","12","2700004.00","2024-12-02 10:21:45","0"
+"20","75","12","2700005.00","2024-12-02 10:21:53","0"
+"21","75","12","2700006.00","2024-12-02 10:21:57","0"
+"22","75","12","2700007.00","2024-12-02 10:22:01","0"
+"23","75","12","2700008.00","2024-12-02 10:22:04","0"
+"24","75","12","2700009.00","2024-12-02 10:22:08","0"
+"25","75","12","2700010.00","2024-12-02 10:22:13","0"
+"26","75","12","2700011.00","2024-12-02 10:22:23","0"
+"27","75","12","2700012.00","2024-12-02 10:22:27","0"
+"category_id","category_name","created_at"
+"1","Asphalt Distributor Truck","2024-11-13 18:55:45"
+"2","Boom Truck","2024-11-13 18:55:45"
+"3","Bottle Truck","2024-11-13 18:55:45"
+"4","Bulk Truck","2024-11-13 18:55:45"
+"5","Bulldozer","2024-11-13 18:55:45"
+"6","Bus","2024-11-13 18:55:45"
+"7","Cab & Chassis","2024-11-13 18:55:45"
+"8","Camper Truck","2024-11-13 18:55:45"
+"9","Car Carrier Truck","2024-11-13 18:55:45"
+"10","Cargo Truck","2024-11-13 18:55:45"
+"11","Cement Bulk Truck","2024-11-13 18:55:45"
+"12","Combination Roller","2024-11-13 18:55:45"
+"13","Concrete Pump Truck","2024-11-13 18:55:45"
+"14","Container Chassis","2024-11-13 18:55:45"
+"15","Dozer Backhoe","2024-11-13 18:55:45"
+"16","Dump Truck","2024-11-13 18:55:45"
+"17","Excavator","2024-11-13 18:55:45"
+"18","Fire Truck","2024-11-13 18:55:45"
+"19","Forklift","2024-11-13 18:55:45"
+"20","Garbage Compactor","2024-11-13 18:55:45"
+"21","Insulated Van Truck","2024-11-13 18:55:45"
+"22","Manlift Truck","2024-11-13 18:55:45"
+"23","Mixer Truck","2024-11-13 18:55:45"
+"24","Mobile Food Truck","2024-11-13 18:55:45"
+"25","Motor Grader","2024-11-13 18:55:45"
+"26","Pavement Marker Truck","2024-11-13 18:55:45"
+"27","Power Light Truck","2024-11-13 18:55:45"
+"28","Reefer Van Truck","2024-11-13 18:55:45"
+"29","Rough Terrain Crane","2024-11-13 18:55:45"
+"30","Self Loading Truck","2024-11-13 18:55:45"
+"31","Steel Wheel Roller","2024-11-13 18:55:45"
+"32","Tanker Truck","2024-11-13 18:55:45"
+"33","Tractor Head","2024-11-13 18:55:45"
+"34","Trailer","2024-11-13 18:55:45"
+"35","Truck Crane","2024-11-13 18:55:45"
+"36","Vacuum Truck","2024-11-13 18:55:45"
+"37","Van Truck","2024-11-13 18:55:45"
+"38","Wheel Loader","2024-11-13 18:55:45"
+"39","Wing Van Truck","2024-11-13 18:55:45"
+"40","Others","2024-11-13 18:55:45"
+"notification_id","user_id","truck_id","message","is_read","created_at","transaction_id","email_send"
+"1","75","14","Congratulations! You won the auction for Lot ID: 14.","0","2024-11-23 21:40:02",NULL,"1"
+"2","75","7","Congratulations! You won the auction for Lot ID: 7.","1","2024-11-23 21:50:02",NULL,"1"
+"3","75","7","Your payment for ISUZU GIGA SELF-LOADING W BOOM & WINCH, Lot ID: 7 via Bank Transfer is pending verification.","0","2024-11-23 21:50:14",NULL,"1"
+"4","75","7","Lot ID: 7.
+Transaction Status: Pending.
+Pullout Date: November 23, 2024 09:50:00 PM.","0","2024-11-23 21:50:50","2","1"
+"5","75","7","Lot ID: 7.
+Transaction Status: Completed.
+Pullout Date: November 23, 2024 09:50:00 PM.","0","2024-11-23 21:51:17","2","1"
+"7","75","14","Lot ID: 14.
+Transaction Status: Completed.","1","2024-11-23 23:10:12","1","1"
+"8","75","14","Lot ID: 14.
+Transaction Status: Pending.","1","2024-11-23 23:13:05","1","1"
+"9","75","14","Your payment for TCM STD30 WHEEL LOADER, Lot ID: 14 via Cash is pending verification.","1","2024-11-23 23:13:11",NULL,"1"
+"10","75","14","Lot ID: 14.
+Transaction Status: Completed.
+Pullout Date: November 23, 2024 11:13:00 PM.","1","2024-11-23 23:13:23","1","1"
+"11","75","14","Lot ID: 14.
+Transaction Status: Pending.","1","2024-11-23 23:18:41","1","1"
+"12","75","7","Lot ID: 7.
+Transaction Status: Pending.
+Pullout Date: November 23, 2024 09:50:00 PM.","0","2024-11-23 23:38:24","2","1"
+"13","75","7","Lot ID: 7.
+Transaction Status: Completed.
+Pullout Date: November 23, 2024 09:50:00 PM.","1","2024-11-23 23:38:35","2","1"
+"14","75","1","Your bid has been outbid on Lot ID: 1.","1","2024-11-24 11:18:16",NULL,"1"
+"15","73","1","Your bid has been outbid on Lot ID: 1.","0","2024-11-26 09:39:27",NULL,"1"
+"16","75","1","Congratulations! You won the auction for Lot ID: 1.","0","2024-11-30 17:56:02",NULL,"1"
+"17","75","12","Congratulations! You won the auction for Lot ID: 12.","0","2024-12-07 21:31:02",NULL,"1"
+"request_id","user_id","bank_account","bank_name","account_holder","request_time"
+"1","75","123456789","BDO","Ryan Jade Manalo","2024-11-23 15:16:58"
+"transaction_id","truck_id","user_id","final_bid","transaction_time","payment_method","payment_status","pull_out_date","is_read","proof_of_payment_image"
+"1","14","75","2000000.00","2024-11-23 13:40:02",NULL,NULL,NULL,"0","../paymentprocedure/uploads/8b9b3376-0cad-4723-afaa-84bda379cef4.png"
+"2","7","75","4000000.00","2024-11-23 13:50:02","Bank Transfer","Completed","2024-11-23 21:50:00","0","../paymentprocedure/uploads/9a05731df6c920e35785cb09173e82df.jpg"
+"3","1","75","45000000.00","2024-11-30 09:56:02",NULL,NULL,NULL,"0",NULL
+"4","12","75","2700012.00","2024-12-07 13:31:02",NULL,NULL,NULL,"0",NULL
+"truck_id","category_id"
+"image_id","truck_id","image_path","created_at"
+"1","1","uploads/images/326694751_1523306058178585_942787274172065329_n.jpg","2024-11-23 17:57:16"
+"2","1","uploads/images/326591109_525617659665214_4258715083247310667_n.jpg","2024-11-23 17:57:16"
+"3","1","uploads/images/326557445_595580779069471_15899220748895579_n.jpg","2024-11-23 17:57:16"
+"4","1","uploads/images/326509441_491158446431563_3216970842964111310_n.jpg","2024-11-23 17:57:16"
+"5","1","uploads/images/326501909_909431650072450_7605768222483015300_n.jpg","2024-11-23 17:57:16"
+"6","1","uploads/images/326492444_1324506951641799_1425723113370772803_n.jpg","2024-11-23 17:57:16"
+"7","1","uploads/images/326466673_506157811547937_7481756692598186491_n.jpg","2024-11-23 17:57:16"
+"8","1","uploads/images/326453675_2463265663828039_6646407484851612556_n.jpg","2024-11-23 17:57:16"
+"9","2","uploads/images/431008865_799372968883084_5195289544486760172_n.jpg","2024-11-23 18:02:29"
+"10","2","uploads/images/431331522_799373422216372_5741847547286991318_n.jpg","2024-11-23 18:02:29"
+"11","2","uploads/images/431649150_799373195549728_1500223107998972792_n.jpg","2024-11-23 18:02:29"
+"12","2","uploads/images/431432112_799373015549746_1594601754457659566_n.jpg","2024-11-23 18:02:29"
+"13","2","uploads/images/431329766_799373228883058_6169535970774649049_n.jpg","2024-11-23 18:02:29"
+"14","2","uploads/images/431733638_799373188883062_1703577620664864647_n.jpg","2024-11-23 18:02:29"
+"15","2","uploads/images/430982430_799373002216414_4567177287192413710_n.jpg","2024-11-23 18:02:29"
+"16","2","uploads/images/431645527_799373385549709_9216832040515422109_n.jpg","2024-11-23 18:02:29"
+"17","2","uploads/images/431648207_799373222216392_6319213444289101201_n.jpg","2024-11-23 18:02:29"
+"18","2","uploads/images/431025186_799373378883043_8324973550263284782_n.jpg","2024-11-23 18:02:29"
+"19","2","uploads/images/431738527_799373145549733_799595399084220070_n.jpg","2024-11-23 18:02:29"
+"20","2","uploads/images/430695765_799368372216877_9053279610779951581_n.jpg","2024-11-23 18:02:29"
+"21","2","uploads/images/431321324_799373115549736_49606933344643135_n.jpg","2024-11-23 18:02:29"
+"22","2","uploads/images/431029771_799373348883046_5272829617547564045_n.jpg","2024-11-23 18:02:29"
+"23","2","uploads/images/431359853_799373342216380_4142142335967574178_n.jpg","2024-11-23 18:02:29"
+"24","2","uploads/images/431793249_799373308883050_7368249754123787361_n.jpg","2024-11-23 18:02:29"
+"25","2","uploads/images/431402303_799373248883056_8255545829050634838_n.jpg","2024-11-23 18:02:29"
+"26","2","uploads/images/430878516_799373415549706_9128900954729187985_n.jpg","2024-11-23 18:02:29"
+"27","2","uploads/images/431724821_799373108883070_5921071656738257197_n.jpg","2024-11-23 18:02:29"
+"28","2","uploads/images/431323852_799373135549734_1599927458048248952_n.jpg","2024-11-23 18:02:29"
+"29","2","uploads/images/431328206_799372978883083_6723034466909862707_n.jpg","2024-11-23 18:02:29"
+"30","2","uploads/images/431406988_799373262216388_188208561809629292_n.jpg","2024-11-23 18:02:29"
+"31","3","uploads/images/432763041_803128498507531_125392398070396608_n.jpg","2024-11-23 18:05:32"
+"32","3","uploads/images/432737673_803128651840849_8329828740212108718_n.jpg","2024-11-23 18:05:32"
+"33","3","uploads/images/432745007_803128621840852_5285898711247359287_n.jpg","2024-11-23 18:05:32"
+"34","3","uploads/images/432739716_803128815174166_2403704342084744293_n.jpg","2024-11-23 18:05:32"
+"35","3","uploads/images/432766666_803128798507501_5707669640190479964_n.jpg","2024-11-23 18:05:32"
+"36","3","uploads/images/432775320_803128708507510_2031690642556469252_n.jpg","2024-11-23 18:05:32"
+"37","3","uploads/images/432775171_803128725174175_5085466750489401654_n.jpg","2024-11-23 18:05:32"
+"38","3","uploads/images/432763259_803128668507514_6617225070769164302_n.jpg","2024-11-23 18:05:32"
+"39","3","uploads/images/432988595_803128751840839_6287124433489090824_n.jpg","2024-11-23 18:05:32"
+"40","3","uploads/images/432754279_803128781840836_4224236098586772151_n.jpg","2024-11-23 18:05:32"
+"41","3","uploads/images/432712627_803128758507505_5482545475717754613_n.jpg","2024-11-23 18:05:32"
+"42","4","../uploads/images/385255153_708583891295326_2330559710804550246_n.jpg","2024-11-23 18:09:05"
+"43","4","../uploads/images/385255529_708583991295316_7628982206324910612_n.jpg","2024-11-23 18:09:05"
+"44","4","../uploads/images/386523995_708584167961965_5344855573035390063_n.jpg","2024-11-23 18:09:05"
+"45","4","../uploads/images/386532294_708584051295310_2958882435444324477_n.jpg","2024-11-23 18:09:05"
+"46","4","../uploads/images/386741724_708584517961930_6666239894088735884_n.jpg","2024-11-23 18:09:05"
+"47","4","../uploads/images/386755368_708584404628608_2701632970134065116_n.jpg","2024-11-23 18:09:05"
+"48","4","../uploads/images/386763283_708583827961999_6420527307780477461_n.jpg","2024-11-23 18:09:05"
+"49","4","../uploads/images/387006672_708584111295304_3691341174150316727_n.jpg","2024-11-23 18:09:05"
+"50","4","../uploads/images/387068105_708583781295337_7655445246511406784_n.jpg","2024-11-23 18:09:05"
+"51","4","../uploads/images/387082232_708584277961954_6464229352014252850_n.jpg","2024-11-23 18:09:05"
+"52","4","../uploads/images/387110872_708584227961959_7144292666558827344_n.jpg","2024-11-23 18:09:05"
+"53","4","../uploads/images/387197720_708583941295321_1838155720100621011_n.jpg","2024-11-23 18:09:05"
+"54","5","uploads/images/425652858_780318790788502_2952161426283980549_n.jpg","2024-11-23 18:10:43"
+"55","5","uploads/images/425671148_780318870788494_5152260056921639662_n.jpg","2024-11-23 18:10:43"
+"56","5","uploads/images/425698278_780318860788495_3109774919525337447_n.jpg","2024-11-23 18:10:43"
+"57","5","uploads/images/425711969_780318824121832_6561427655538321436_n.jpg","2024-11-23 18:10:43"
+"58","5","uploads/images/425712768_780318780788503_4262330861929874303_n.jpg","2024-11-23 18:10:43"
+"59","5","uploads/images/425734670_780318814121833_2367649837423632111_n.jpg","2024-11-23 18:10:43"
+"60","5","uploads/images/425749566_780318770788504_5417277892198773530_n.jpg","2024-11-23 18:10:43"
+"61","5","uploads/images/425750370_780318760788505_285769823217910326_n.jpg","2024-11-23 18:10:43"
+"62","5","uploads/images/425751314_780318517455196_457262129230546300_n.jpg","2024-11-23 18:10:43"
+"63","5","uploads/images/425761818_780318797455168_1806761002340452596_n.jpg","2024-11-23 18:10:43"
+"64","6","uploads/images/314833044_496268772468434_7216431337363831763_n.jpg","2024-11-23 18:24:42"
+"65","6","uploads/images/315023775_496268979135080_7874154653408211591_n.jpg","2024-11-23 18:24:42"
+"66","6","uploads/images/315026655_496269202468391_2397698386446701875_n.jpg","2024-11-23 18:24:42"
+"67","6","uploads/images/315042199_496269332468378_4924571686374507010_n.jpg","2024-11-23 18:24:42"
+"68","6","uploads/images/315046419_496268755801769_6010677872249205782_n.jpg","2024-11-23 18:24:42"
+"69","6","uploads/images/315055054_496268842468427_3366842894411851531_n.jpg","2024-11-23 18:24:42"
+"70","6","uploads/images/315065885_496269262468385_2987518743953529227_n.jpg","2024-11-23 18:24:42"
+"71","6","uploads/images/315078300_496269065801738_8199742257329873265_n.jpg","2024-11-23 18:24:42"
+"72","6","uploads/images/315213335_496268742468437_494043794902770762_n.jpg","2024-11-23 18:24:42"
+"73","6","uploads/images/315340309_496268255801819_2881954294579804424_n.jpg","2024-11-23 18:24:42"
+"74","6","uploads/images/315575720_496268892468422_1890724413485674758_n.jpg","2024-11-23 18:24:42"
+"75","6","uploads/images/315648174_496268872468424_2439579493985677968_n.jpg","2024-11-23 18:24:42"
+"76","6","uploads/images/315649432_496268815801763_8825676784463139535_n.jpg","2024-11-23 18:24:42"
+"77","6","uploads/images/315685363_496269025801742_6276093911466941960_n.jpg","2024-11-23 18:24:42"
+"78","6","uploads/images/315717303_496268939135084_7502541094903447057_n.jpg","2024-11-23 18:24:42"
+"100","7","../uploads/images/325853764_1373560226802176_1946526518175936620_n.jpg","2024-11-23 18:27:27"
+"101","7","../uploads/images/325796629_569853204990471_7312786798154893434_n.jpg","2024-11-23 18:27:27"
+"102","7","../uploads/images/325733072_5926820044071707_4658756465422267954_n.jpg","2024-11-23 18:27:27"
+"103","7","../uploads/images/325784864_1578792705916801_5475593227308923639_n.jpg","2024-11-23 18:27:27"
+"104","7","../uploads/images/325763430_5926805800735598_7375923111773187907_n.jpg","2024-11-23 18:27:27"
+"105","7","../uploads/images/325775137_1370864497056999_5981434201951771497_n.jpg","2024-11-23 18:27:27"
+"106","7","../uploads/images/325784742_1483114172217476_6659849797528266424_n.jpg","2024-11-23 18:27:27"
+"107","7","../uploads/images/325737052_1505855423235505_5099766959483446985_n.jpg","2024-11-23 18:27:27"
+"108","7","../uploads/images/325770331_700671261776184_8022065562164814143_n.jpg","2024-11-23 18:27:27"
+"109","7","../uploads/images/325749969_1324035988394693_205643863615981664_n.jpg","2024-11-23 18:27:27"
+"110","7","../uploads/images/325855165_526393849556945_1367575698458428497_n.jpg","2024-11-23 18:27:27"
+"111","7","../uploads/images/325788509_1595802480848549_220123627660518782_n.jpg","2024-11-23 18:27:27"
+"112","7","../uploads/images/326049340_718338076554436_7501574451655861295_n.jpg","2024-11-23 18:27:27"
+"113","7","../uploads/images/325705667_6039765399400888_7878750647423338488_n.jpg","2024-11-23 18:27:27"
+"114","7","../uploads/images/325678836_883390609639599_2030612316077847027_n.jpg","2024-11-23 18:27:27"
+"115","7","../uploads/images/325676644_582309156568603_8519434152475758987_n.jpg","2024-11-23 18:27:27"
+"116","7","../uploads/images/325813699_2802622889871594_276051002018611974_n.jpg","2024-11-23 18:27:27"
+"117","7","../uploads/images/325903513_1376213736536981_7966302342485879128_n.jpg","2024-11-23 18:27:27"
+"118","7","../uploads/images/325764785_719338366417825_3027108886324636184_n.jpg","2024-11-23 18:27:27"
+"119","7","../uploads/images/325771542_1641337066300987_4313100123736706421_n.jpg","2024-11-23 18:27:27"
+"120","7","../uploads/images/325765497_715137183457471_523742335744003684_n.jpg","2024-11-23 18:27:27"
+"129","8","../uploads/images/372003998_686364130183969_8147441515008399852_n.jpg","2024-11-23 21:17:26"
+"130","8","../uploads/images/372039977_686367953516920_4026860424706518125_n.jpg","2024-11-23 21:17:26"
+"131","8","../uploads/images/372755540_686368040183578_1433146982197858297_n.jpg","2024-11-23 21:17:26"
+"132","8","../uploads/images/373518925_686367000183682_4353595510165290280_n.jpg","2024-11-23 21:17:26"
+"133","8","../uploads/images/371908722_686367906850258_5587141927571296969_n.jpg","2024-11-23 21:17:53"
+"134","8","../uploads/images/371920091_686367830183599_83131270347747363_n.jpg","2024-11-23 21:17:53"
+"135","9","uploads/images/464714375_956304113189968_8358526565497511293_n.jpg","2024-11-23 21:21:45"
+"136","9","uploads/images/464601545_956304166523296_6618535693666747015_n.jpg","2024-11-23 21:21:45"
+"137","9","uploads/images/464577677_956304156523297_128427937012577_n.jpg","2024-11-23 21:21:45"
+"138","9","uploads/images/464741271_956304326523280_5380771737876831734_n.jpg","2024-11-23 21:21:45"
+"139","9","uploads/images/464683703_956304316523281_5415193871848908492_n.jpg","2024-11-23 21:21:45"
+"140","9","uploads/images/464733934_956304426523270_1030516976495042568_n.jpg","2024-11-23 21:21:45"
+"141","9","uploads/images/464599021_956304386523274_7526139221037968371_n.jpg","2024-11-23 21:21:45"
+"142","9","uploads/images/464614649_956304393189940_5716081773063794804_n.jpg","2024-11-23 21:21:45"
+"143","9","uploads/images/464471288_956304119856634_6847916527855182165_n.jpg","2024-11-23 21:21:45"
+"144","9","uploads/images/464596372_956304243189955_6806873827299748139_n.jpg","2024-11-23 21:21:45"
+"145","9","uploads/images/464605681_956304259856620_169120375380447099_n.jpg","2024-11-23 21:21:45"
+"146","10","uploads/images/431312056_801732665313781_1849502264886020427_n.jpg","2024-11-23 21:24:20"
+"147","10","uploads/images/431637991_801732875313760_1372475155613997757_n.jpg","2024-11-23 21:24:20"
+"148","10","uploads/images/431660021_801732975313750_8469383872983028174_n.jpg","2024-11-23 21:24:20"
+"149","10","uploads/images/431660194_801732838647097_4734845157491931070_n.jpg","2024-11-23 21:24:20"
+"150","10","uploads/images/431667719_801732531980461_5956130881929434865_n.jpg","2024-11-23 21:24:20"
+"151","10","uploads/images/431691920_801732631980451_5119943547993847539_n.jpg","2024-11-23 21:24:20"
+"152","10","uploads/images/431705637_801732755313772_974056539523464920_n.jpg","2024-11-23 21:24:20"
+"153","10","uploads/images/431708791_801732725313775_2267712924172288634_n.jpg","2024-11-23 21:24:20"
+"154","10","uploads/images/431708933_801732948647086_8779277191413482097_n.jpg","2024-11-23 21:24:20"
+"155","10","uploads/images/431724985_801732805313767_5727618304280394073_n.jpg","2024-11-23 21:24:20"
+"156","10","uploads/images/431731027_801732465313801_1377041607436362450_n.jpg","2024-11-23 21:24:20"
+"157","10","uploads/images/431761361_801732598647121_7974931265071179541_n.jpg","2024-11-23 21:24:20"
+"158","10","uploads/images/431761583_801732565313791_303586004256566549_n.jpg","2024-11-23 21:24:20"
+"159","10","uploads/images/431769024_801732918647089_2335586235896372674_n.jpg","2024-11-23 21:24:20"
+"160","10","uploads/images/431774598_801733048647076_265294541715352387_n.jpg","2024-11-23 21:24:20"
+"161","10","uploads/images/431774877_801732695313778_9171404156823304458_n.jpg","2024-11-23 21:24:20"
+"162","10","uploads/images/431840423_801732501980464_2966460330562538494_n.jpg","2024-11-23 21:24:20"
+"163","10","uploads/images/432758938_801733011980413_5218927676360072468_n.jpg","2024-11-23 21:24:20"
+"164","10","uploads/images/432767010_801732781980436_2298824067086955876_n.jpg","2024-11-23 21:24:20"
+"166","11","uploads/images/466539874_969028908584155_1943387259129172650_n.jpg","2024-11-23 21:26:39"
+"167","11","uploads/images/466591068_969029001917479_4422253528076880069_n.jpg","2024-11-23 21:26:39"
+"168","11","uploads/images/466595089_969028948584151_3696128993456890951_n.jpg","2024-11-23 21:26:39"
+"169","11","uploads/images/466627983_969029121917467_5775687566833831733_n.jpg","2024-11-23 21:26:39"
+"170","11","uploads/images/466628600_969029061917473_7802743671942744973_n.jpg","2024-11-23 21:26:39"
+"171","11","uploads/images/466670316_969029231917456_4734226571308176285_n.jpg","2024-11-23 21:26:39"
+"172","11","uploads/images/466921295_969029165250796_1935390713180419369_n.jpg","2024-11-23 21:26:39"
+"173","11","uploads/images/466953447_969028841917495_4534037435778429611_n.jpg","2024-11-23 21:26:39"
+"174","11","../uploads/images/466439431_969029201917459_2275350256899750735_n.jpg","2024-11-23 21:26:56"
+"177","12","uploads/images/465660285_964447959042250_8327008026323304418_n.jpg","2024-11-23 21:32:07"
+"178","12","uploads/images/465692630_964447912375588_8428148637236545753_n.jpg","2024-11-23 21:32:07"
+"179","12","uploads/images/465706353_964447815708931_7719405816116280768_n.jpg","2024-11-23 21:32:07"
+"180","12","uploads/images/465709887_964447685708944_2017937073547047935_n.jpg","2024-11-23 21:32:07"
+"181","12","uploads/images/465713858_964447742375605_1142782035501214568_n.jpg","2024-11-23 21:32:07"
+"182","12","uploads/images/465722830_964447465708966_2312563156693386449_n.jpg","2024-11-23 21:32:07"
+"183","12","uploads/images/465723597_964447859042260_7282688698342444598_n.jpg","2024-11-23 21:32:07"
+"184","12","uploads/images/465726367_964447499042296_3636022470207966591_n.jpg","2024-11-23 21:32:07"
+"185","12","uploads/images/465728794_964447879042258_4798127348252343805_n.jpg","2024-11-23 21:32:07"
+"186","12","uploads/images/465734207_964447919042254_8220096677518851615_n.jpg","2024-11-23 21:32:07"
+"187","12","uploads/images/465815922_964447992375580_6412912558584939718_n.jpg","2024-11-23 21:32:07"
+"188","12","uploads/images/465855413_964447569042289_4204065126533695240_n.jpg","2024-11-23 21:32:07"
+"189","12","uploads/images/465906867_964447945708918_6939949526232183804_n.jpg","2024-11-23 21:32:07"
+"190","12","uploads/images/465979746_964447509042295_4463108953030739919_n.jpg","2024-11-23 21:32:07"
+"191","12","uploads/images/465999269_964447562375623_305068846439613156_n.jpg","2024-11-23 21:32:07"
+"192","12","uploads/images/466004245_964447455708967_741023566324230107_n.jpg","2024-11-23 21:32:07"
+"193","12","../uploads/images/465579114_964447825708930_8050886068597981720_n.jpg","2024-11-23 21:32:25"
+"194","12","../uploads/images/465651005_964447979042248_5922708842548289233_n.jpg","2024-11-23 21:32:25"
+"195","13","uploads/images/369936953_684677853685930_2227026416615029816_n.jpg","2024-11-23 21:34:42"
+"196","13","uploads/images/369955798_684678280352554_3143947185564064694_n.jpg","2024-11-23 21:34:42"
+"197","13","uploads/images/369967335_684678320352550_1822266328043723116_n.jpg","2024-11-23 21:34:42"
+"198","13","uploads/images/369969966_684677710352611_2136386402896011_n.jpg","2024-11-23 21:34:42"
+"199","13","uploads/images/370036075_684677800352602_1561117589729591167_n.jpg","2024-11-23 21:34:42"
+"200","13","uploads/images/370132164_684678293685886_952485652799158640_n.jpg","2024-11-23 21:34:42"
+"201","13","uploads/images/370211310_684677993685916_9154198107889400322_n.jpg","2024-11-23 21:34:42"
+"202","13","uploads/images/370240361_684678117019237_4496537575311552620_n.jpg","2024-11-23 21:34:42"
+"203","13","uploads/images/370262114_684677627019286_8204536556504513354_n.jpg","2024-11-23 21:34:42"
+"204","13","uploads/images/370382436_684678047019244_8043939835067624239_n.jpg","2024-11-23 21:34:42"
+"205","13","uploads/images/370439376_684677650352617_7063710463506120868_n.jpg","2024-11-23 21:34:42"
+"207","14","uploads/images/429858178_800649588755422_4023104715719232508_n.jpg","2024-11-23 21:36:57"
+"208","14","uploads/images/430204818_800649602088754_227446277964345176_n.jpg","2024-11-23 21:36:57"
+"209","14","uploads/images/430330385_800649865422061_1461447563477610307_n.jpg","2024-11-23 21:36:57"
+"210","14","uploads/images/431082217_800649905422057_6607025987859584060_n.jpg","2024-11-23 21:36:57"
+"211","14","uploads/images/431096935_800649748755406_9030255966064431301_n.jpg","2024-11-23 21:36:57"
+"212","14","uploads/images/431912693_800649765422071_6295188076680943011_n.jpg","2024-11-23 21:36:57"
+"213","14","uploads/images/431946540_800649818755399_7761055163125766176_n.jpg","2024-11-23 21:36:57"
+"214","14","uploads/images/431964533_800649652088749_1453784133339102446_n.jpg","2024-11-23 21:36:57"
+"215","14","uploads/images/431968028_800649802088734_3009084641186413405_n.jpg","2024-11-23 21:36:57"
+"216","14","uploads/images/431980866_800649698755411_3876334976177043966_n.jpg","2024-11-23 21:36:57"
+"217","14","uploads/images/431985235_800649668755414_7196250866257760389_n.jpg","2024-11-23 21:36:57"
+"218","14","uploads/images/432045176_800649715422076_719541297641408148_n.jpg","2024-11-23 21:36:57"
+"219","14","../uploads/images/429827555_800649852088729_8782758127922507094_n.jpg","2024-11-23 21:37:08"
+"220","16","../uploads/images/429827555_800649852088729_8782758127922507094_n.jpg","2024-11-27 15:34:33"
+"221","17","uploads/images/sdo logo.jpg","2024-11-27 17:47:20"
+"maker_id","maker_name","created_at"
+"1","Airman","2024-11-13 19:02:16"
+"2","Bomag","2024-11-13 19:02:16"
+"3","Caterpillar","2024-11-13 19:02:16"
+"4","Denyo","2024-11-13 19:02:16"
+"5","Dynapac","2024-11-13 19:02:16"
+"6","Fuso","2024-11-13 19:02:16"
+"7","Hino","2024-11-13 19:02:16"
+"8","Hitachi","2024-11-13 19:02:16"
+"9","Howo","2024-11-13 19:02:16"
+"10","Isuzu","2024-11-13 19:02:16"
+"11","Kato","2024-11-13 19:02:16"
+"12","Kobelco","2024-11-13 19:02:16"
+"13","Komatsu","2024-11-13 19:02:16"
+"14","Man","2024-11-13 19:02:16"
+"15","Mitsubishi","2024-11-13 19:02:16"
+"16","Sumitomo","2024-11-13 19:02:16"
+"17","Tadano","2024-11-13 19:02:16"
+"18","TCM","2024-11-13 19:02:16"
+"19","Toyota","2024-11-13 19:02:16"
+"20","Others","2024-11-13 19:02:16"
+"truck_id","truck_name","lot_number","description","model_year","starting_bid","current_bid","auction_start","auction_end","status","category_id","created_at","maker_id"
+"1","BOMAG ROLLER","1","The BOMAG roller is a rugged and efficient machine designed for soil and asphalt compaction, making it an essential tool for road construction and infrastructure projects. Its advanced vibration system and reliable engine ensure excellent performance and durability in demanding conditions.
+
+Tons: 10 tons
+Dimensions: 5.85 meters (length) x 2.27 meters (width) x 2.98 meters (height)
+Engine: Deutz TCD 3.6L Diesel Engine, 100 kW (134 hp)","2020","0.00","45000000.00","2024-11-23 09:56:00","2024-11-30 09:56:00","Closed","31","2024-11-23 17:57:16","2"
+"2","HINO 12W SELF-LOADING W BOOM","2","The Hino 12W Self-Loading Truck with Boom is a versatile and powerful vehicle designed for efficient loading and unloading of materials, making it ideal for construction and heavy-duty applications. With its robust boom system and 12-wheel configuration, it provides enhanced stability and performance for demanding tasks.
+
+Tons: 18 tons
+Dimensions: 8.5 meters (length) x 2.5 meters (width) x 3.5 meters (height)
+Engine: Hino J08E-TI, 7.6L Diesel Engine, 280 hp
+4 Section Boom","2018","0.00","0.00","2024-11-23 09:59:00","2024-11-30 09:59:00","Closed","30","2024-11-23 18:02:29","7"
+"3","ISUZU ELF DROPSIDE TRUCK","3","The Isuzu ELF Dropside Truck is a compact and durable vehicle designed for efficient transportation of goods in construction and logistics. Its dropside feature allows for easy loading and unloading, making it ideal for hauling materials and equipment in tight spaces.
+
+Tons: 3.5 tons
+Dimensions: 5.5 meters (length) x 2.1 meters (width) x 2.6 meters (height)
+Engine: Isuzu 4JH1-TC 3.0L Turbo Diesel, 130 hp
+6 STUDS","2020","0.00","0.00","2024-11-23 10:04:00","2024-11-30 10:04:00","Closed","10","2024-11-23 18:05:32","10"
+"4","ISUZU ELF MINI DUMP TRUCK","4","The Isuzu ELF Mini Dump Truck is a compact yet robust vehicle designed for hauling and dumping materials in construction and small-scale projects. Its durable dump bed allows for easy unloading, making it perfect for landscaping, roadwork, and various hauling applications.
+
+BRAND NEW DASHBOARD
+Tons: 3 tons
+Dimensions: 4.7 meters (length) x 1.9 meters (width) x 2.3 meters (height)
+Engine: Isuzu 4JJ1-TC, 3.0L Turbo Diesel, 130 hp","2018","0.00","0.00","2024-11-23 10:07:00","2024-11-30 10:07:00","Closed","16","2024-11-23 18:07:39","10"
+"5","ISUZU ELF TRUCK-MOUNTED CRANE","5","The Isuzu ELF Truck-Mounted Crane is a versatile vehicle equipped with a hydraulic crane for lifting and transporting heavy loads with precision. Its compact size and powerful crane make it ideal for construction, material handling, and lifting operations in tight spaces.
+
+Tons: 2.9 Tons
+Dimensions: 6.2 meters (length) x 2.1 meters (width) x 2.8 meters (height)
+Engine: Isuzu 4JJ1-TC, 3.0L Turbo Diesel, 150 hp
+6 WHEELER
+UPHOLSTERY
+BRAND NEW DASHBOARD","2020","0.00","0.00","2024-11-23 10:10:00","2024-11-30 10:10:00","Closed","35","2024-11-23 18:10:43","10"
+"6","ISUZU GIGA DROPSIDE TRUCK W BRAND NEW BOOM","6","The Isuzu Giga Dropside Truck with a brand new boom is a heavy-duty vehicle designed for hauling large loads and equipped with a powerful crane for lifting materials. Its sturdy construction and high payload capacity make it perfect for demanding construction and industrial applications.
+
+XCMG 6.3TONS
+Dimensions: 9.0 meters (length) x 2.5 meters (width) x 3.8 meters (height)
+Engine: Isuzu 6WF1, 14.3L Turbo Diesel, 350 hp
+12 WHEELER
+8 STUD 
+UPHOLSTERY
+AIR-CONDITIONED","2021","0.00","0.00","2024-11-23 10:24:00","2024-11-30 10:24:00","Closed","35","2024-11-23 18:24:42","10"
+"7","ISUZU GIGA SELF-LOADING W BOOM & WINCH","7","The Isuzu Giga Self-Loading Truck with Boom and Winch is a heavy-duty vehicle designed for efficient material handling and transport in challenging environments. Its self-loading capabilities, combined with a powerful boom and winch, make it ideal for lifting, loading, and unloading heavy equipment and materials in construction and industrial operations.
+
+Tons: 20 tons
+Dimensions: 10.0 meters (length) x 2.6 meters (width) x 4.0 meters (height)
+Engine: Isuzu 6UZ1-TC, 10.3L Turbo Diesel, 350 hp","2022","0.00","4000000.00","2024-11-23 10:26:00","2024-11-23 13:50:00","Closed","30","2024-11-23 18:26:44","10"
+"8","ISUZU GIGA TRACTOR HEAD","8","The Isuzu Giga Tractor Head is a powerful and durable truck designed for heavy-duty long-haul transport and trailer towing, offering exceptional performance on both highways and rugged roads. Built for logistics and freight operations, this truck combines strength, efficiency, and reliability, making it an ideal choice for moving large cargo over long distances.
+
+Tons: 18 tons
+Dimensions: 7.8 meters (length) x 2.6 meters (width) x 3.5 meters (height)
+Engine: Isuzu 6WG1-TC, 15.6L Turbo Diesel, 420 hp
+BUBBLE TOP
+6 WHEELER
+AIR-CONDITIONED
+UPHOLSTERY","2020","0.00","0.00","2024-11-23 13:16:00","2024-11-30 13:16:00","Closed","33","2024-11-23 21:16:58","10"
+"9","KOMATSU D21A BULLDOZER","9","The Komatsu D21A Bulldozer is a versatile and compact machine designed for various construction and earth-moving tasks, offering excellent maneuverability and high-performance capabilities. Its robust build and powerful engine make it ideal for grading, pushing, and other heavy-duty operations in tight spaces and rough terrains.
+
+Tons: 8 tons
+Dimensions: 4.4 meters (length) x 2.3 meters (width) x 2.8 meters (height)
+Engine: Komatsu S4D95L, 4.5L Diesel Engine, 75 hp
+32 hours","2017","0.00","0.00","2024-11-23 13:20:00","2024-11-30 13:20:00","Closed","5","2024-11-23 21:21:45","13"
+"10","KOMATSU PC35MR-2 EXCAVATOR","10","The Komatsu PC35MR-2 Excavator is a compact and versatile machine designed for efficient digging, lifting, and material handling in confined spaces. Known for its excellent fuel efficiency and robust performance, it is ideal for small to medium-scale construction projects and urban development.
+
+Tons: 3.5 tons
+Dimensions: 5.5 meters (length) x 2.0 meters (width) x 2.6 meters (height)
+Engine: Komatsu 4D95L, 3.3L Diesel Engine, 45 hp","2016","0.00","0.00","2024-11-23 13:23:00","2024-11-30 13:23:00","Closed","17","2024-11-23 21:24:20","13"
+"11","MITSUBISHI ROSA BUS","11","The Mitsubishi Rosa Bus is a versatile and compact minibus, designed for comfortable transportation of passengers over short to medium distances. Its spacious interior and durable build make it ideal for public transport, shuttle services, and tourism operations.
+
+Capacity: 22 Passengers
+Dimensions: 7.5 meters (length) x 2.3 meters (width) x 2.8 meters (height)
+Engine: Mitsubishi 4D34, 3.9L Diesel Engine, 130 hp","2019","0.00","0.00","2024-11-23 13:26:00","2024-11-30 13:26:00","Closed","6","2024-11-23 21:26:39","15"
+"12","MITSUBISHI SUPER GREAT 12W SELF-LOADING WBOOM & WINCH","12","The Mitsubishi Super Great 12W Self-Loading Truck with Boom & Winch is a robust and versatile vehicle designed for heavy-duty operations, equipped with a powerful boom and winch for efficient loading and lifting. It is ideal for construction and logistics, offering reliable performance in handling large and heavy loads with ease.
+
+Tons: 25 tons
+Dimensions: 9.8 meters (length) x 2.5 meters (width) x 3.6 meters (height)
+Engine: Mitsubishi 6D640, 18.0L Turbo Diesel, 350 hp","2020","0.00","2700012.00","2024-11-30 13:31:00","2024-12-07 13:31:00","Closed","30","2024-11-23 21:32:07","15"
+"13","MITSUBISHI WS300A MINI WHEEL LOADER","13","The Mitsubishi WS300A Mini Wheel Loader is a compact yet powerful machine designed for various earth-moving tasks in confined spaces. With its robust lifting capabilities and efficient design, it is ideal for construction, landscaping, and material handling in tight work environments.
+
+Tons: 3.5 tons
+Dimensions: 4.5 meters (length) x 1.8 meters (width) x 2.5 meters (height)
+Engine: Mitsubishi 4D34, 3.9L Diesel Engine, 85 hp","2018","0.00","0.00","2024-11-25 13:34:00","2024-11-28 13:40:00","Closed","38","2024-11-23 21:34:42","15"
+"14","TCM STD30 WHEEL LOADER","14","The TCM STD30 Wheel Loader is a reliable and powerful machine designed for heavy-duty material handling and construction tasks. Known for its durability and smooth performance, it is perfect for loading, digging, and transporting materials across rough terrain in various industries.
+
+Tons: 7 tons
+Dimensions: 6.2 meters (length) x 2.5 meters (width) x 3.2 meters (height)
+Engine: Isuzu 4JJ1, 4.3L Diesel Engine, 100 hp","2015","0.00","1700000.00","2024-11-23 13:36:00","2024-11-23 13:40:00","Closed","38","2024-11-23 21:36:57","18"
+"15","truck","13","description","2020","0.00","0.00","2024-11-27 08:18:00","2024-11-27 08:19:00","Closed","10","2024-11-26 09:51:20","11"
+"16","fsd","14","32","321","0.00","0.00","2024-11-27 07:16:00","2024-11-30 07:16:00","Closed","11","2024-11-27 15:16:38","10"
+"video_id","truck_id","video_path","created_at"
+"1","2","../uploads/videos/1E8154.mp4","2024-11-24 11:16:02"
+"2","10","../uploads/videos/1E7869.mp4","2024-11-24 11:18:45"
+"3","3","../uploads/videos/1E8281.mp4","2024-11-24 11:21:00"
+"4","4","../uploads/videos/1E8252.mp4","2024-11-24 11:22:00"
+"5","8","../uploads/videos/1E5981.mp4","2024-11-24 11:24:49"
+"review_id","transaction_id","username","rating","review_text","review_time","images","videos"
+"1","2","jade123","5","It was a good investment. The process of auction was simple and efficient","2024-11-24 05:52:17","[""6741de1166f42_325853764_1373560226802176_1946526518175936620_n.jpg"",""6741de116734d_325796629_569853204990471_7312786798154893434_n.jpg"",""6741de1167607_325733072_5926820044071707_4658756465422267954_n.jpg""]","[]"
+"2","2","jade123","5","I will definitely buy again
+It was a good experience","2024-11-24 05:52:50","[]","[]"
+"3","2","jade123","2",,"2024-11-24 07:19:35","[]","[]"
+"4","2","jade123","4",,"2024-11-24 07:19:40","[]","[]"
+"user_id","username","email","password_hash","first_name","middle_name","last_name","contact","age","address","business_permit","govt_id","created_at","email_verified","verification_token","reset_token","token_expiry","is_approved","profile_picture","proof","refund_requested","refund_email_sent"
+"73","savior","21-33388@g.batstate-u.edu.ph","$2y$10$f601d56Td1GVkMhd7ZOgh.Jmwt4jefTB16YqtqM3EASSOIp6Yb8Ha","Savior","Allen","Tipan","0987654321","22","Lipa City, Batangas","uploads/business/6726370ce03cd_agriauction logo.png","Business Permit","2024-11-02 22:28:28","1",NULL,NULL,NULL,"1","3c38501bdea3c2989a06be149cba1bea.png","uploads/proof/6726370ce0a8e_agriauction.png","1","1"
+"75","jade123","rjtm15703@gmail.com","$2y$10$35pldPlzlh31/bD8KBCvWe0Z2kN5MjH91IvyNxE8llmSk9L1DAPuS","cxz","321","321","5882","321","321","uploads/business/67270ad0a7320_agriauction.png","DTI Permit","2024-11-03 13:32:00","1",NULL,"f141688a38186d18727981910e4a602decca04ecce1296f97b7b0f66a9a428bceddefb04efcc8837afdb31292b55c6e9b4e9","2024-11-25 22:46:35","1","fb5766e38a59b02ab644d326d5b1e4fa.png","uploads/proof/67270ad0a7754_agriauction logo.png","1","1"
+"82","arrmaments","joyce_armamento@yahoo.com","$2y$10$ZuqhZW2ypYQE31KvQiOmF.VA7b5DQTUrV9i5cs385ReEvu6CKn4Ja","Joyce","Verdadero","Armamento","09950910630","26","Olongapo City","uploads/business/673415a7488bb_001 (1).jpg","Others","2024-11-13 10:57:43","1",NULL,NULL,NULL,"1",NULL,"uploads/proof/673415a748b3d_462645517_1620101198861879_3988504096001627588_n.jpg","0","0"
+"83","jonnah","jonnah.melo@g.batstate-u.edu.ph","$2y$10$rmuCdtOhkEWQHKlQCTP/hO7EQlL4acWPq4aNDtWd1p4QiixG6VLJC","JONNAH","R.","MELO","02","121","Batangas State University Marawoy Lipa City","uploads/business/6734613a5d2f0_20231227_134146.jpg","Business Permit","2024-11-13 16:20:10","1",NULL,NULL,NULL,"1",NULL,"uploads/proof/6734613a5f284_20231227_134146.jpg","0","0"
+"85","rhon123","rhonvincent233@gmail.com","$2y$10$oSPt4cSq2FhcySCSP90L.OYoygpGMyJiVfUAfcyZmbsPvPVHcm3b.","qwqw","qwqw","qwqw","09326787890","23","qwqwqwqwqwqw","uploads/business/6744666804b6b_IMG_2024-04-28-07-48-28-676.jpg","DTI Permit","2024-11-25 19:58:32","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/6744666807179_IMG_2024-04-22-17-45-59-830.jpg","0","0"
+"86","admin","21-34531@g.batstate-u.edu.ph","$2y$10$.LqX/jIAo4oFjJhMaCST/edOqPz.f1iV2vsnm3Upvqo8JRB7fxKuu","Mel","a","Encarnado","09999999999","123","Tambo","uploads/business/674c36fa43baf_60d27693-1965-4db6-94b4-78f604323a17.jpg","Barangay Clearance","2024-12-01 18:14:18","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/674c36fa43f0c_60d27693-1965-4db6-94b4-78f604323a17.jpg","0","0"
+"87","21213","ryanewqmanalo172@gmail.com","$2y$10$SJHA7vpHVemThId.o7LpQuT2zWX6WrlyUOUvuyrvARiChsH7Sb3PO","ewq","32","321","12","21","321","uploads/business/674c38575ef87_462647332_2027643411015517_64852771086869957_n.png","DTI Permit","2024-12-01 18:20:07","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/674c38575f2b1_9a05731df6c920e35785cb09173e82df.jpg","0","0"
+"88","rhon435","33@gmail.com","$2y$10$kdgOJVm0iHMgx95iJ2DNMOzDyxofzI70tYr2KsLPJGBYt1vEYQXWe","rew","21","rew","434","32","21","uploads/business/674c3f683e23d_9a05731df6c920e35785cb09173e82df.jpg","Business Permit","2024-12-01 18:50:16","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/674c3f683e40d_9a05731df6c920e35785cb09173e82df.jpg","0","0"
+"89","rhon4543","ryanmaewqnalo172@gmail.com","$2y$10$CL1KnnZtqzGRR5QUqT0THOU4g8Ll67iAs/TETACxNM88TxLuaJaV.","rew","43","43","43","43","43","uploads/business/674c41f627495_462647332_2027643411015517_64852771086869957_n.png","Barangay Clearance","2024-12-01 19:01:10","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/674c41f62778b_462647332_2027643411015517_64852771086869957_n.png","0","0"
+"98","312fsd","ryanmanrewalo172@gmail.com","$2y$10$ydvAib5e0mIwdyE4IFAijuaQMXjEtGF4Dk/kl.4t0qw9NkAg5liuW","dsa","dsa","231","321","321","312","uploads/business/674c46f8d36eb_462647332_2027643411015517_64852771086869957_n.png","Business Permit","2024-12-01 19:22:32","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/674c46f8d3a49_9a05731df6c920e35785cb09173e82df.jpg","0","0"
+"102","jadewe123","rjtm1532703@gmail.com","$2y$10$2jbxS/62hni2QNwGVKe.oO/3AIgwnqLKmtLsij4wdKelfgOtllhvu","wq","ewq231","312","12","312","213","uploads/business/674c492686e8e_462647332_2027643411015517_64852771086869957_n.png","DTI Permit","2024-12-01 19:31:50","1",NULL,NULL,NULL,"0",NULL,"uploads/proof/674c49268713c_462647332_2027643411015517_64852771086869957_n.png","0","0"
+"watchlist_id","user_id","truck_id","created_at"
+"3","84","1","2024-11-23 23:02:57"
+"4","84","2","2024-11-23 23:03:03"
+"7","75","1","2024-11-23 23:04:46"
+"9","73","1","2024-11-24 12:10:34"
+"10","73","2","2024-11-24 12:10:52"
+"11","73","3","2024-11-24 12:11:10"
+"12","73","4","2024-11-24 12:11:23"
+"13","75","4","2024-11-26 09:37:24"
