@@ -3,15 +3,15 @@
 "2022","Open","Self Loading Truck","Isuzu","Completed","Bank Transfer","ISUZU GIGA SELF-LOADING W BOOM & WINCH","DTI Permit","75"
 "2020","Closed","Self Loading Truck","Mitsubishi","Pending","Financing","MITSUBISHI SUPER GREAT 12W SELF-LOADING WBOOM & WINCH","DTI Permit","75"
 "2015","Open","Wheel Loader","TCM","Pending","Cash","TCM STD30 WHEEL LOADER","DTI Permit","75"
-"2019","Closed","Bus","Mitsubishi",NULL,NULL,"MITSUBISHI ROSA BUS",NULL,NULL
-"2020","Open","Truck Crane","Isuzu",NULL,NULL,"ISUZU ELF TRUCK-MOUNTED CRANE",NULL,NULL
-"2018","Closed","Wheel Loader","Mitsubishi",NULL,NULL,"MITSUBISHI WS300A MINI WHEEL LOADER",NULL,NULL
-"2021","Closed","Truck Crane","Isuzu",NULL,NULL,"ISUZU GIGA DROPSIDE TRUCK W BRAND NEW BOOM",NULL,NULL
-"2020","Open","Cargo Truck","Kato",NULL,NULL,"truck",NULL,NULL
-"2020","Open","Tractor Head","Isuzu",NULL,NULL,"ISUZU GIGA TRACTOR HEAD",NULL,NULL
-"2018","Open","Self Loading Truck","Hino",NULL,NULL,"HINO 12W SELF-LOADING W BOOM",NULL,NULL
-"321","Open","Cement Bulk Truck","Isuzu",NULL,NULL,"fsd",NULL,NULL
-"2017","Closed","Bulldozer","Komatsu",NULL,NULL,"KOMATSU D21A BULLDOZER",NULL,NULL
-"2020","Open","Cargo Truck","Isuzu",NULL,NULL,"ISUZU ELF DROPSIDE TRUCK",NULL,NULL
-"2016","Closed","Excavator","Komatsu",NULL,NULL,"KOMATSU PC35MR-2 EXCAVATOR",NULL,NULL
-"2018","Closed","Dump Truck","Isuzu",NULL,NULL,"ISUZU ELF MINI DUMP TRUCK",NULL,NULL
+"2019","Closed","Bus","Mitsubishi","Completed","Bank Transfer","MITSUBISHI ROSA BUS","Business Permit","76"
+"2020","Open","Truck Crane","Isuzu","Pending","Financing","ISUZU ELF TRUCK-MOUNTED CRANE","Barangay Clearance","77"
+"2018","Closed","Wheel Loader","Mitsubishi","Completed","Financing","MITSUBISHI WS300A MINI WHEEL LOADER","Others","78"
+"2021","Closed","Truck Crane","Isuzu","Failed","Cash","ISUZU GIGA DROPSIDE TRUCK W BRAND NEW BOOM","Others","78"
+"2020","Open","Cargo Truck","Kato","Failed","Cash","truck","Business Permit","76"
+"2020","Open","Tractor Head","Isuzu","Failed","Bank Transfer","ISUZU GIGA TRACTOR HEAD","Others","78"
+"2018","Open","Self Loading Truck","Hino","Pending","Bank Transfer","HINO 12W SELF-LOADING W BOOM","Others","78"
+"321","Open","Cement Bulk Truck","Isuzu","Pending","Bank Transfer","fsd","Business Permit","76"
+"2017","Closed","Bulldozer","Komatsu","Pending","Cash","KOMATSU D21A BULLDOZER","Business Permit","76"
+"2020","Open","Cargo Truck","Isuzu","Completed","Financing","ISUZU ELF DROPSIDE TRUCK","DTI Permit","75"
+"2016","Closed","Excavator","Komatsu","Completed","Cash","KOMATSU PC35MR-2 EXCAVATOR","DTI Permit","75"
+"2018","Closed","Dump Truck","Isuzu","Completed","Financing","ISUZU ELF MINI DUMP TRUCK","Business Permit","76"
